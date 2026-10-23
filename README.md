@@ -305,7 +305,7 @@ smart-lead-management-routing/
 
 The complete end-to-end automation built in Make.com.
 
-![Complete Make.com Workflow](./Complete%20Make.com%20scenario.png)
+![Complete Make.com Workflow](./complete%20Make.com%20scenario.png)
 
 ---
 
