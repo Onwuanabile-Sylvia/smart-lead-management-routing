@@ -278,24 +278,20 @@ smart-lead-management-routing/
 ├── README.md
 │
 ├── docs/
-│   └── technical-documentation.md
+│   └── technical-documentation.pdf
 │
 ├── screenshots/
-│   ├── make-scenario-blueprint.png
-│   ├── lead-validation.png
-│   ├── lead-enrichment.png
-│   ├── lead-scoring.png
-│   ├── router.png
-│   ├── sales-branch.png
-│   ├── nurture-branch.png
-│   ├── lead-results.png
-│   ├── activity-log.png
-│   └── successful-execution.png
+│   ├── Google Form.png
+│   ├── Form Responses sheet.png
+│   ├── Lead Results sheet.png
+│   ├── Activity Log sheet.png
+│   └── Complete Make.com scenario.png
 │
 ├── demo/
-│   └── README.md
+│   └── drive.google.com
 │
 └── LICENSE
+
 ```
 
 ---
